@@ -22,7 +22,7 @@ class TFLiteHelper {
       path: image.path,
       imageMean: 0.0,
       imageStd: 255.0,
-      numResults: 2,
+      numResults: 3,
       threshold: 0.2,
       asynch: true,
     );

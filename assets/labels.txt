@@ -1,2 +1,3 @@
-0 Gato
-1 Cachorro
+0 Apple
+1 Pear
+2 Strawberry
